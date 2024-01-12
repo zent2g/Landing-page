@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header-container{
+    display: flex;
+    background-color: #1f2937;
+}
+
+.header{
+}
+
+.header ul{
+    list-style-type: none;
+}
+
+.logo{
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.header-subtext-container{
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: bolder;
+}
