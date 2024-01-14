@@ -25,11 +25,9 @@ A Barbershop website that is being developed using HTML and css. the development
 
  ## Credits 🤝
 
- - [Google Fonts](To be decided).
+ - [Google Fonts](https://fonts.google.com/specimen/Roboto).
 
  - [Images](https://www.pexels.com/search/barber/)
 
 ## Future Updates🔮
-1. Finish the card section (almost complete)
-2. Add a quote section from a past world famous barber.
-3. and an sign up modal
+1. project is complete! (for now)
