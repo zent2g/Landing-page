@@ -1,3 +1,5 @@
+@import url(https://fonts.google.com/specimen/Roboto);
+
 *{
     margin: 0;
     padding: 0;
@@ -124,6 +126,79 @@ div{
     border-radius: 10px;
     width: 100px;
     height: 100px;
+}
+
+.quote-card-container{
+    background-color: #e5e7eb;
+    width: 100%;
+    height: 30vh;
+}
+
+.quote-text{
+    display: flex;
+    font-size: 36px;
+    margin: 0px 550px;
+    margin-top: 20px;
+    font-family: light italic;
+    color: #1F2937;
+}
+
+.quote-author{
+    font-weight: bolder;
+    text-align: end;
+    margin-right: 450px;
+}
+
+.sign-modal-container{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 30vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal-header{
+    display: flex;
+    border: 1px solid #3882f6;
+    border-radius: 10px;
+    background-color: #3882f6;
+    color: white;
+    flex-wrap: wrap;
+    height: 40%;
+    width: 70%;
+}
+
+.modal-header-text{
+    display: flex;
+    flex-direction: row;
+    font-size: 20px;
+    font-weight: bold;
+    justify-content: center;
+    width: 70%;
+    height: 20px;
+    margin-top: auto;
+}
+
+.modal-subtext{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 70%;
+    height: 20px;
+    margin-left: 103px;
+    margin-top: 5px;
+}
+
+.modal-header button{
+    display: flex;
+    background-color: #3882f6;
+    color: white;
+    border: 2px solid white;
+    align-items: center;
+    border-radius: 5px;
+    height: 30px;
+    padding: 0px 10px;
 }
 
 .footer{
