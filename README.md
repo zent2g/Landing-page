@@ -27,7 +27,7 @@ A Barbershop website that is being developed using HTML and css. the development
 
  - [Google Fonts](To be decided).
 
- - [Iamges]((https://www.pexels.com/search/barber/))
+ - [Images](https://www.pexels.com/search/barber/)
 
 ## Future Updates🔮
 1. Finish the card section (almost complete)
